@@ -4,9 +4,19 @@
 
 ## Videos
 
+[Flutter Provider: Introduction](https://youtu.be/O71rYKcxUgA) - an introduction to the Provider Package.
+
+[Google IO 2019: Pragmatic State Management in Flutter](https://www.youtube.com/watch?v=d_m5csmrf7I) - see how to structure content in a simple yet scalable way.
+
+[Boring Show: Pragmatic State Management Using Provider](https://www.youtube.com/watch?v=HrBiNHEqSYU) - an overview of the Provider package, a straightforward way to manage state in a Flutter app.
+
+[Flutter :: From StreamBuilder to MultiProvider](https://youtu.be/budqAnwn740) - a video that breaks down the process that takes you from StreamBuilder to MultiProvider.
 
 ## Articles
 
+[Flutter Provider v3 Architecture](https://www.filledstacks.com/post/flutter-provider-v3-architecture/) - an article on architecting your Flutter applications in an MVVM pattern using provider.
+
+[Flutter: Pragmatic State Management Using Provider](https://medium.com/flutter-community/flutter-pragmatic-state-management-using-provider-5c1129f9b5bb) - This article will help you to get started with state management using the provider package
 
 ## Libraries
 
