@@ -29,3 +29,7 @@
  [persist_theme](https://github.com/fluttercommunity/persist_theme) - A Flutter plugin for persiting and dynamicly changing the theme.
  
  [voyager](https://github.com/vishna/voyager) - Router, requirements & dependency injection library for Flutter.
+ 
+ ## Contribute
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
