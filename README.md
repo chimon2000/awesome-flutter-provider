@@ -14,9 +14,11 @@
 
 ## Articles
 
+[Provider - Points of interest - Points to care about](https://www.didierboelens.com/2019/07/provider---points-of-interest---points-to-care-about/) - an in-depth tour of the Provider package, points of interest and to care about.
+
 [Flutter Provider v3 Architecture](https://www.filledstacks.com/post/flutter-provider-v3-architecture/) - an article on architecting your Flutter applications in an MVVM pattern using provider.
 
-[Flutter: Pragmatic State Management Using Provider](https://medium.com/flutter-community/flutter-pragmatic-state-management-using-provider-5c1129f9b5bb) - This article will help you to get started with state management using the provider package
+[Flutter: Pragmatic State Management Using Provider](https://medium.com/flutter-community/flutter-pragmatic-state-management-using-provider-5c1129f9b5bb) - This article will help you to get started with state management using the provider package.
 
 ## Libraries
 
