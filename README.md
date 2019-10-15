@@ -33,3 +33,7 @@
  ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+Read the [license](LICENSE).
