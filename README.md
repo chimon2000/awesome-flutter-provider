@@ -31,6 +31,8 @@
  [persist_theme](https://github.com/fluttercommunity/persist_theme) - A Flutter plugin for persiting and dynamicly changing the theme.
  
  [voyager](https://github.com/vishna/voyager) - Router, requirements & dependency injection library for Flutter.
+
+ [provider_for_redux](https://github.com/marcglasberg/provider_for_redux) - Let's you use Provider with [async_redux](https://github.com/marcglasberg/async_redux).
  
  ## Contribute
 
