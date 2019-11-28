@@ -22,6 +22,8 @@
 
 ## Libraries
 
+ [provider_architecture](https://github.com/FilledStacks/provider_architecture) - A set of widgets to help implement the MvvmStyle provider architecture as laid out by [FilledStacks](https://www.youtube.com/filledstacks).
+ 
  [provider_assist](https://github.com/SKLn-Rad/provider_assist) - An MVVMish state management library heavily influenced by FilledStacks Provider v3 Architecture.
  
  [flutter_bloc](https://github.com/felangel/bloc) - A Reduxish state management library that helps implement the BLoC pattern.
