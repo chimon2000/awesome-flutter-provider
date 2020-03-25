@@ -12,6 +12,10 @@
 
 [Flutter :: From StreamBuilder to MultiProvider](https://youtu.be/budqAnwn740) - a video that breaks down the process that takes you from StreamBuilder to MultiProvider.
 
+[Advanced Provider Tutorial Part 1](https://codewithandrea.com/videos/2019-10-28-advanced-provider-tutorial-part1/), [Part 2](https://codewithandrea.com/videos/2019-10-28-advanced-provider-tutorial-part2/), [Part 3](https://codewithandrea.com/videos/2019-10-28-advanced-provider-tutorial-part3/) - This multi-part tutorial shows how to use Provider to build an app that lets the user choose and upload an avatar image to Firestore.
+
+[Everything you need to know about Provider ](https://www.youtube.com/watch?v=BulIREvHBWg) - In this talk, the creator of provider explains what provider is and what are the benefits of using it, along with common use-cases.
+
 ## Articles
 
 [Provider - Points of interest - Points to care about](https://www.didierboelens.com/2019/07/provider---points-of-interest---points-to-care-about/) - an in-depth tour of the Provider package, points of interest and to care about.
