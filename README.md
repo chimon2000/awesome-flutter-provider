@@ -40,6 +40,14 @@
 
  [provider_for_redux](https://github.com/marcglasberg/provider_for_redux) - Let's you use Provider with [async_redux](https://github.com/marcglasberg/async_redux).
  
+ [feature_discovery](https://github.com/ayalma/feature_discovery) - A Flutter package that implements Material Design Feature discovery to show a description of specific features to new users.
+ 
+ [liquid_swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - A Flutter plugin to implement liquid Swipe effect to provided containers.
+ 
+ [flutter_clean_architecture](https://pub.dev/packages/flutter_clean_architecture) - A Flutter package that makes it easy and intuitive to implement Uncle Bob's Clean Architecture in Flutter. 
+ 
+ [disposable_provider](https://pub.dev/packages/disposable_provider) - DisposableProvider is thin wrapper of Provider and it calls dispose automatically.
+ 
  ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
